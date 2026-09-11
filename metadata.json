@@ -1,0 +1,6 @@
+{
+  "name": "Hotspot Racers",
+  "description": "Multiplayer offline WiFi & hotspot car racing game featuring real-time vehicle synchronization, low-latency controls, and LAN multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

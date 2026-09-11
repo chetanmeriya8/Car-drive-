@@ -1,0 +1,76 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Nitro boost glow flames behind rear wheels -->
+    <path
+        android:fillColor="#FF3D00"
+        android:pathData="M43,84 L46,96 L49,84 Z" />
+    <path
+        android:fillColor="#FF3D00"
+        android:pathData="M59,84 L62,96 L65,84 Z" />
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M44.5,84 L46,92 L47.5,84 Z" />
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M60.5,84 L62,92 L63.5,84 Z" />
+
+    <!-- 4 Tires (Black with metallic rim) -->
+    <!-- Front-Left Tire -->
+    <path
+        android:fillColor="#1F242C"
+        android:pathData="M35,30 h7 v16 h-7 z" />
+    <!-- Front-Right Tire -->
+    <path
+        android:fillColor="#1F242C"
+        android:pathData="M66,30 h7 v16 h-7 z" />
+    <!-- Rear-Left Tire -->
+    <path
+        android:fillColor="#1F242C"
+        android:pathData="M34,68 h8 v17 h-8 z" />
+    <!-- Rear-Right Tire -->
+    <path
+        android:fillColor="#1F242C"
+        android:pathData="M66,68 h8 v17 h-8 z" />
+
+    <!-- Rear Spoiler Wing -->
+    <path
+        android:fillColor="#D50000"
+        android:pathData="M36,80 L72,80 L70,85 L38,85 Z" />
+
+    <!-- Main Car Chassis (Sleek red supercar aerodynamic body) -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M42,22 C47,20 61,20 66,22 C70,25 70,36 68,46 C70,54 70,68 67,79 C64,83 44,83 41,79 C38,68 38,54 40,46 C38,36 38,25 42,22 Z" />
+
+    <!-- Cabin / Windshield & Windows (Tinted Cyan/Dark Glass) -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:pathData="M44,38 L64,38 L62,59 L46,59 Z" />
+    <!-- Windshield Reflection -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M46,40 L62,40 L60,47 L48,47 Z" />
+    <!-- Rear Window -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M47,53 L61,53 L59,57 L49,57 Z" />
+
+    <!-- Racing Stripe (Crisp White / Yellow) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,21 h4 v17 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,59 h4 v21 h-4 z" />
+
+    <!-- Headlights (High-intensity yellow/white LEDs) -->
+    <path
+        android:fillColor="#FFEA00"
+        android:pathData="M41,25 L45,26 L44,29 L40,28 Z" />
+    <path
+        android:fillColor="#FFEA00"
+        android:pathData="M67,25 L63,26 L64,29 L68,28 Z" />
+</vector>
